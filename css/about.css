@@ -1,0 +1,163 @@
+/* GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
+
+html {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+/* Start HEADER Section */
+
+header {
+    background-color: #003366;
+    position: relative;
+    border: 5px solid #003366;
+    border-radius: 5px 5px 0px 0px;
+}
+
+header img {
+    height: 50px;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+/* Start NAV bar */
+
+nav {
+    float: right;
+    position: relative;
+}
+
+nav>ul {
+    list-style-type: none;
+    padding-top: 3px;
+}
+
+nav>ul>li {
+    display: inline;
+    background-color: #004d99;
+    padding: 13px;
+    border-radius: 20px 5px 20px 5px;
+    margin: 0px 15px;
+}
+
+nav>ul>li>a {
+    text-decoration: none;
+    color: #66b3ff;
+}
+
+nav ul li:hover {
+    cursor: pointer;
+    background-color: #66b3ff;
+}
+
+nav ul li:hover a {
+    color: #004d99;
+}
+
+/* COLUMNS SECTION */
+.column {
+    box-sizing: border-box;
+    width: 25%;
+    height: 500px;
+    padding: 0px 10px;
+    float: left;
+    position: relative;
+}
+
+.column p {
+    text-align: justify;
+    line-height: 2em;
+    font-size: 20px;
+}
+
+.column button {
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 5px;
+}
+
+.column h3 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 2em;
+}
+
+
+#col-1 {
+    background-color: #0066cc;
+    color: #66b3ff;
+    margin-bottom: 10px;
+}
+
+#col-2 {
+    background-color: #0059b3;
+    color: #66b3ff;
+    margin-bottom: 10px;
+}
+
+#col-3 {
+    background-color: #004d99;
+    color: #66b3ff;
+    margin-bottom: 10px;
+}
+
+#col-4 {
+    background-color: #004080;
+    color: #66b3ff;
+    margin-bottom: 10px;
+}
+
+#col-1 button {
+    background-color: #66b3ff;
+    color: #fff;
+}
+
+#col-2 button {
+    background-color: #66b3ff;
+    color: #fff;
+}
+
+#col-3 button {
+    background-color: #66b3ff;
+    color: #fff;
+}
+
+#col-4 button {
+    background-color: #66b3ff;
+    color: #fff;
+}
+
+.video h1 {
+    text-align: center;
+    margin-top: 10px;
+    color: #00254d;
+}
+
+.video p {
+    text-align: center;
+    color: #00254d; 
+    font-size: 20px;
+}
+
+/* FOOTER SECTION */
+
+footer {
+    height: 150px;
+    background-color: #0073e6;
+    clear: both;
+}
+
+.icon {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.icon .fa{
+    color: #cce5ff;
+    font-size: 4em;
+    padding-right: 20px;
+    padding-left: 20px;
+}
