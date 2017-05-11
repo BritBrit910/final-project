@@ -321,6 +321,7 @@ main>p {
     color: #00254d;
     padding: 0px 10px;
     margin-top: 100px;
+    margin-bottom: 210px;
     height: 385px;
 }
 
@@ -332,6 +333,68 @@ main>p {
     font-size: 30px;
     line-height: 45px;
 }
+
+/*POST 7*/
+.post7 {
+    position: relative;
+    margin: 25px 50px;
+}
+
+.post7 img {
+    float: right;
+    width: 40%;
+    height: 50%;
+    margin-bottom: 10px;
+}
+
+.sec7 {
+    float: left;
+    width: 40%;
+    text-align: center;
+    color: #00254d;
+    padding: 0px 0px;
+    margin-top: 80px;
+    margin-bottom: 125px;
+}
+
+.sec7 p {
+    font-size: 30px;
+    line-height: 45px;
+}
+
+/*POST 8*/
+.post8 {
+    position: relative;
+    margin: 25px 50px;
+}
+
+.post8 img {
+    float: left;
+    width: 40%;
+    height: 50%;
+    margin-bottom: 10px;
+}
+
+.sec8 {
+    float: right;
+    width: 40%;
+    text-align: center;
+    color: #00254d;
+    padding: 0px 10px;
+    margin-top: 120px;
+    margin-bottom: 210px;
+    height: 385px;
+}
+
+.sec8>h1 {
+    font-size: 45px;
+}
+
+.sec8 p {
+    font-size: 30px;
+    line-height: 45px;
+}
+
 
 /* FOOTER SECTION */
 
