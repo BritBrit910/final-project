@@ -301,6 +301,38 @@ main>p {
     line-height: 45px;
 }
 
+/*POST 6*/
+.post6 {
+    position: relative;
+    margin: 25px 50px;
+}
+
+.post6 img {
+    float: left;
+    width: 40%;
+    height: 50%;
+    margin-bottom: 10px;
+}
+
+.sec6 {
+    float: right;
+    width: 40%;
+    text-align: center;
+    color: #00254d;
+    padding: 0px 10px;
+    margin-top: 100px;
+    height: 385px;
+}
+
+.sec6>h1 {
+    font-size: 45px;
+}
+
+.sec6 p {
+    font-size: 30px;
+    line-height: 45px;
+}
+
 /* FOOTER SECTION */
 
 footer {
