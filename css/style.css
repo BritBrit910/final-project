@@ -382,7 +382,7 @@ main>p {
     color: #00254d;
     padding: 0px 10px;
     margin-top: 120px;
-    margin-bottom: 210px;
+    margin-bottom: 100px;
     height: 385px;
 }
 
@@ -395,6 +395,94 @@ main>p {
     line-height: 45px;
 }
 
+/*POST 9*/
+.post9 {
+    position: relative;
+    margin: 25px 50px;
+}
+
+.post9 img {
+    float: right;
+    width: 40%;
+    height: 50%;
+    margin-bottom: 10px;
+}
+
+.sec9 {
+    float: left;
+    width: 40%;
+    text-align: center;
+    color: #00254d;
+    padding: 0px 0px;
+    margin-top: 80px;
+    margin-bottom: 125px;
+}
+
+.sec9 p {
+    font-size: 30px;
+    line-height: 45px;
+}
+
+/*POST 10*/
+.sec10 {
+    position: relative;
+    margin: 25px 50px;
+}
+
+.sec10 img {
+    float: left;
+    width: 40%;
+    height: 50%;
+    margin-bottom: 10px;
+}
+
+.post10 {
+    float: right;
+    width: 40%;
+    text-align: center;
+    color: #00254d;
+    padding: 0px 10px;
+    margin-top: 100px;
+    margin-bottom: 210px;
+    height: 385px;
+}
+
+.post10>h1 {
+    font-size: 45px;
+}
+
+.post10 p {
+    font-size: 30px;
+    line-height: 45px;
+}
+
+/*POST 11*/
+.post11 {
+    position: relative;
+    margin: 25px 50px;
+}
+
+.post11 img {
+    float: right;
+    width: 40%;
+    height: 50%;
+    margin-bottom: 10px;
+}
+
+.sec11 {
+    float: left;
+    width: 40%;
+    text-align: center;
+    color: #00254d;
+    padding: 0px 0px;
+    margin-top: 80px;
+    margin-bottom: 125px;
+}
+
+.sec11 p {
+    font-size: 30px;
+    line-height: 45px;
+}
 
 /* FOOTER SECTION */
 
